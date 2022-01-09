@@ -6,8 +6,11 @@ Telco is a fantastic California-based telecommunication company. They provided u
 
 # Dataset variables:
 CustomerId - Customer ID
+
 Gender - Customer Gender(male/female)
+
 SeniorCitizen - Old or not customer(1, 2)
+
 Partner - Customer having a co-user(Yes, No)
 Dependents - Customer having to look after anyone(Yes, No)
 Tenure - Customer using company services (month)
